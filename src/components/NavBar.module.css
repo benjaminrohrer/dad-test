@@ -1,0 +1,16 @@
+.navigation {
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0.5rem 0rem;
+    background-color: rgb(77, 114, 91);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+    justify-content: space-between;
+  }
+
+  .image {
+      padding-left: 8px;
+  }
